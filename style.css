@@ -1,0 +1,41 @@
+body {
+    background-color: #FFF2F2;
+
+    background-image: url('/img/bg-icons.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.header-font {
+    color: #F94E54;
+}
+
+.btn {
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.btn:hover {
+    background-color: #F94E54;
+    color: #fff;
+}
+
+.btn1 {
+    border-radius: 10px;
+    background-color: #F94E54;
+    color: white;
+}
+
+.image {
+    width: 80%;
+}
+
+.font-1 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.font-margin {
+    margin-top: 100px;
+}
